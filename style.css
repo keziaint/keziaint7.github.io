@@ -1,0 +1,16 @@
+.box1{
+	font: font-family: 'Playfair Display', serif;
+	width: 90%;
+	height: 195px;
+	display: block;
+	text-align: center;
+	background-color: #E2D00B ;
+	color: #FFFFFF ;
+	border-style: solid;
+}
+.center-div{
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+
